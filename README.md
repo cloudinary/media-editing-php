@@ -126,7 +126,7 @@ try {
 ```
 
 ## Get Help
-- [Open a Github issue](https://github.com/CloudinaryLtd/media-editing-php/issues) (for issues related to the SDK)
+- [Open a Github issue](https://github.com/cloudinary/media-editing-php/issues) (for issues related to the SDK)
 - [Open a support ticket](https://cloudinary.com/contact) (for issues related to your account)
 
 ## About Cloudinary
